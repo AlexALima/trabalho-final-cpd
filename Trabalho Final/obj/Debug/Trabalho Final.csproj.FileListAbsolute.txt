@@ -1,0 +1,9 @@
+C:\Users\xandi\Documents\UFRGS\Classificação e Pesquisa de Dados - 2018_2\Trabalho Final - CPD\Trabalho Final\Trabalho Final\bin\Debug\Trabalho Final.exe.config
+C:\Users\xandi\Documents\UFRGS\Classificação e Pesquisa de Dados - 2018_2\Trabalho Final - CPD\Trabalho Final\Trabalho Final\obj\Debug\Trabalho Final.exe
+C:\Users\xandi\Documents\UFRGS\Classificação e Pesquisa de Dados - 2018_2\Trabalho Final - CPD\Trabalho Final\Trabalho Final\obj\Debug\Trabalho Final.pdb
+C:\Users\xandi\Documents\UFRGS\Classificação e Pesquisa de Dados - 2018_2\Trabalho Final - CPD\Trabalho Final\Trabalho Final\bin\Debug\Trabalho Final.exe
+C:\Users\xandi\Documents\UFRGS\Classificação e Pesquisa de Dados - 2018_2\Trabalho Final - CPD\Trabalho Final\Trabalho Final\bin\Debug\Trabalho Final.pdb
+C:\Users\xandi\Documents\UFRGS\Classificação e Pesquisa de Dados - 2018_2\Trabalho Final - CPD\Trabalho Final\Trabalho Final\obj\Debug\Trabalho Final.csprojResolveAssemblyReference.cache
+C:\Users\xandi\Documents\UFRGS\Classificação e Pesquisa de Dados - 2018_2\Trabalho Final - CPD\Trabalho Final\Trabalho Final\obj\Debug\Trabalho_Final.TF_CPD.resources
+C:\Users\xandi\Documents\UFRGS\Classificação e Pesquisa de Dados - 2018_2\Trabalho Final - CPD\Trabalho Final\Trabalho Final\obj\Debug\Trabalho_Final.Properties.Resources.resources
+C:\Users\xandi\Documents\UFRGS\Classificação e Pesquisa de Dados - 2018_2\Trabalho Final - CPD\Trabalho Final\Trabalho Final\obj\Debug\Trabalho Final.csproj.GenerateResource.Cache

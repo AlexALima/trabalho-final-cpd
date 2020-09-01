@@ -1,0 +1,4 @@
+O programa pode ser aberto diretamente no Visual Studio, que já mostra todos os códigos-fontes (recomendado).
+Os códigos também estão disponíveis separadamente na pasta para análise, juntamento com um executável.
+
+Com o executável aberto, siga os passos do relatório para adicionar o arquivo "acidentes_2016.csv" ao programa e testar as funcionalidades.
